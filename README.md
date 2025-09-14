@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋, I'm iCottage
 
-<!--
-**WillHanighen/WillHanighen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Coder | Fish keeper | Linux lover**  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working on: [Your project/plugin/etc.]
+- 🌱 Learning more about: [Tech you’re exploring]
+- 🎯 Goals: Build useful tools & fun projects
+- 🐟 Fun fact: I keep aquarium fish!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages**: Kotlin (plugins), Python (bots), Java (when I must)  
+- **Frameworks/Libs**: Spigot/Paper, FastAPI  
+- **Tools**: IntelliJ IDEA, VSCode, Gradle  
+- **Systems**: Linux (daily driver),   
+
+## 📊 GitHub Stats
+![iCottage's GitHub stats](https://github-readme-stats.vercel.app/api?username=Willhanighen&show_icons=true&theme=tokyonight)
+
+Please don't ask me to build anything for you, I am really not that good.
