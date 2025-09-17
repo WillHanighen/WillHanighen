@@ -1,10 +1,10 @@
 # Hi there 👋, I'm iCottage
 
+## Professional dumbass, amature programmer
+
 💻 **Coder | Fish keeper | Linux lover**  
 
 ## 🚀 About Me
-- 🔭 I’m currently working on: [Your project/plugin/etc.]
-- 🌱 Learning more about: [Tech you’re exploring]
 - 🎯 Goals: Build useful tools & fun projects
 - 🐟 Fun fact: I keep aquarium fish!
 
